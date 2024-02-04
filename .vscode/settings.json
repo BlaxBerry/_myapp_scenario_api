@@ -1,0 +1,9 @@
+{
+  "[go]": {
+    "editor.defaultFormatter": "golang.go",
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true
+  },
+  "go.formatTool": "gofmt",
+  "go.formatFlags": ["-s", "-w"]
+}
