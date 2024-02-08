@@ -2,7 +2,10 @@ module myapp_scenario_api
 
 go 1.20
 
-require github.com/gin-gonic/gin v1.9.1
+require (
+	github.com/BlaxBerry/myapp_protobuf v0.0.0-20240208140221-4508d5e36ec6
+	github.com/gin-gonic/gin v1.9.1
+)
 
 require (
 	github.com/bytedance/sonic v1.9.1 // indirect

@@ -6,6 +6,7 @@ import (
 	"github.com/gin-gonic/gin"
 
 	myModels "myapp_scenario_api/internal/app/models"
+	constants "myapp_scenario_api/internal/pkg/constants"
 )
 
 // 获取列表
@@ -25,7 +26,10 @@ func GetList(ctx *gin.Context) {
 		ctx.JSON(http.StatusOK, myModels.ApiResponseData{
 			Code:  http.StatusOK,
 			Error: nil,
-			Data:  []any{},
+			Data: []any{
+				constants.MockMessageNode,
+				constants.MockHTMLNode,
+			},
 		})
 		return
 	}

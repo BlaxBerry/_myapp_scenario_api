@@ -1,3 +1,5 @@
+github.com/BlaxBerry/myapp_protobuf v0.0.0-20240208140221-4508d5e36ec6 h1:PN10R9dBQdTqVrJk7gOg31uD5TwBfE27A3K1EDXr2nA=
+github.com/BlaxBerry/myapp_protobuf v0.0.0-20240208140221-4508d5e36ec6/go.mod h1:qW32wUPGNq0z5Jws6aR8OQU9ZWa9E16frvKbSonQRX0=
 github.com/bytedance/sonic v1.5.0/go.mod h1:ED5hyg4y6t3/9Ku1R6dU/4KyJ48DZ4jPhfY1O2AihPM=
 github.com/bytedance/sonic v1.9.1 h1:6iJ6NqdoxCDr6mbY8h18oSO+cShGSMRGCEo7F2h0x8s=
 github.com/bytedance/sonic v1.9.1/go.mod h1:i736AoUSYt75HyZLoJW9ERYxcy6eaN6h4BZXU064P/U=
